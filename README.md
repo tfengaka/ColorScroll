@@ -1,4 +1,6 @@
-# Danh sách nhóm
+# ******\_\_\_\_******ĐỀ TÀI 2.3: Cửa Số và Thông ĐIỆP******\_\_\_\_******
+
+## Danh sách nhóm
 
 1. Võ Đoàn Hoàng Long - 6051071067
 1. Nguyễn Thanh Hoà - 6051071043
